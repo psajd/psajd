@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">ITMO University software engineering student, backend developer</h3>
 <br /> 
-<br /> 
 
 ### **Development skills**:
  * Algorithms & Data structures
@@ -20,8 +19,6 @@
  * Web 
   
   
-<br />
-
 ### **Languages and Tools**  
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -32,9 +29,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 
-
-
-<br />
 
 ### **Github stats**  
 
