@@ -3,6 +3,8 @@
 <h3 align="center">ITMO University SE student, backend developer</h3>
 <br /> 
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/psajd)   
+
 ### **Development skills**:
  * Algorithms & Data structures
     * Sorts
