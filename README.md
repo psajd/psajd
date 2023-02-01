@@ -7,12 +7,6 @@
 
 ### **Development skills**:
  * Algorithms & Data structures
-    * Sorts
-    * Binary trees
-    * Hash maps
-    * algorithms on strings, arrays
-    * stack, queue (LIFO, FIFO)
-    * etc.
 
  * OOP + patterns
 
