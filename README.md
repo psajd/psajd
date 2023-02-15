@@ -4,32 +4,3 @@
 <br /> 
 
 [![Codewars Badge](https://www.codewars.com/users/psajd/badges/small)](https://www.codewars.com/users/psajd)  [![LeetCode user psajd](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fpsajd&logo=leetcode&logoColor=yellow)](https://leetcode.com/psajd/)
-
-### **Development skills**:
- * Algorithms & Data structures
-
- * OOP + patterns
-
- * Git 
-
- * Web 
-  
-  
-### **Languages and Tools**  
-
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-
-
-### **Github stats**  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psajd&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=psajd&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
-
-
-
